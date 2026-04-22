@@ -4,5 +4,5 @@ layout: default
 
 ## Projects
 
-- **[/jantris](/jantris)** — Agentic coding experiment that might be a playable blocks game
-- **[/selector-5000](/selector-5000)** — A less boring random "thing" selector
+- **[janktris](/janktris)** — Agentic coding experiment that might be a playable blocks game
+- **[Selektor 5000](/selektor-5000)** — A less boring random "thing" selector
